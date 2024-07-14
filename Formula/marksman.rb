@@ -1,4 +1,4 @@
-class marksman < Formula
+class marksmanx < Formula
   desc "Rust CLI to snipe reservations on Resy"
   homepage "https://github.com/anishxyz/marksman"
   url "https://github.com/anishxyz/marksman/releases/download/v0.2.0/marksman-0.2.0-x86_64-apple-darwin.tar.gz"
