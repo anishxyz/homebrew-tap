@@ -6,6 +6,6 @@ class marksman < Formula
   version "0.2.0"
 
   def install
-    bin.install "marksman"
+    bin.install "marksmanx"
   end
 end
